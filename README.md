@@ -8,14 +8,23 @@ Hands-on with leading tools: Selenium WebDriver, Rest Assured, TOSCA, Cypress, P
 
 🛠️ Skills & Specialties
 Frameworks: POM, Keyword, Data-Driven, and Hybrid – scalable, maintainable, and robust solutions.
+
 Automation Coverage: UI, API, Mobile (Android/iOS), and Database testing.
+
 TOSCA Expertise: Module-based automation design and enhancement (Tricentis TOSCA 13.1).
+
 BDD: Advanced frameworks using Cucumber-JVM and Serenity BDD.
+
 REST API Testing: REST Assured with Java for end-to-end API automation.
+
 Database Testing: SQL-based backend validation for data integrity.
+
 Build Tools: Maven, Gradle.
+
 Mobile Testing: Android (Android SDK & Studio), iOS (Appium), and remote device/browser testing (HP-Mobile Center).
+
 Accessibility: Testing with JAWS & NVDA.
+
 Programming: Strong in Java and JSON scripting.
 
 
