@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I’m Sriram!
 
-<!--
-**leelasriramQA/leelasriramQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am passionate about software test automation and love contributing to the automation community. Here’s a little about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+
+- Building and enhancing Playwright BDD frameworks
+- Exploring and implementing GitHub Actions for CI/CD
+- Learning DevOps basics to bridge automation and deployment
+
+---
+
+## 🌱 Learning
+
+- GitHub Actions workflows and automation
+- DevOps best practices
+- New tools and frameworks in the QA space
+
+---
+
+## 👯 Open to Collaborate
+
+I’m happy to collaborate on:
+- Open-source projects related to automation
+- Building robust testing frameworks
+- Sharing knowledge with the automation community
+
+---
+
+## 💬 Ask Me About
+
+- Selenium, Playwright, REST-assured, Cypress, and more
+- Test Automation Framework design
+- Best practices in QA automation
+
+---
+
+_✨ Always learning, always automating! ✨_
